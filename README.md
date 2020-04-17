@@ -14,5 +14,5 @@ We used the Python3 pandas, matplotlib and seaborn libraries to clean, analyze a
 ### Main Findings
 All the findings are written in our final report. Please contact cgli@umich.edu, jingcao@umich.edu or jindi@umich.edu for a full report.
 
-### Acknowlege
+### Acknowlegement
 Thanks Nicole and Benjamin from OGM for giving us this opportunity to work with them. We would also like to thank Spandan, Shuwan, and Jamal, who worked on this project in Fall 2019, for providing us an start code. We also want to thank our mentor Kaitlyn from Ford Labs for guiding us to the right track. At last, we sincerely appreciate Jennifer and Elizabeth from the leadership of UM Design Clinic for supporting us and providing valuable opinions during this project.
