@@ -8,8 +8,6 @@ This project first aims to understand the current status of employment for the r
 
 This project is conducted by a group of students from the School of Information at the University of Michigan during the winter semester of 2020. The members of the group include team manager Christina Li, a BSI junior, Jing Cao, a 1st year MSI student, and Di Jin, a 1st year MSI student.
 
-Since the data are sensitive, we make this repository private only for related staffs and students.
-
 ### Method
 We used the Python3 pandas, matplotlib and seaborn libraries to clean, analyze and visualize the data. We were provided with eight excel sheets covering Michigan refugee data across twelve counties in 2019. Along with data, we also did some outside research to support/testify our assumptions. At last, we applied matplotlib and seaborn to the cleaned data in order to visualize our findings.
 
